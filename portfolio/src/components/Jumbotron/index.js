@@ -10,10 +10,10 @@ export default function index() {
           aria-controls="resume">
           View Resume
         </a>
-        <a className="btn btn-secondary" download href="./img/Resume_July_2020.pdf"><i className="fa fa-download"></i> Resume</a>
+        <a className="btn btn-secondary" download href="./img/Resume_September_2020.pdf"><i className="fa fa-download"></i> Resume</a>
       </div>
       <div className="collapse text-center" id="resume">
-        <object data="./img/Resume_July_2020.pdf" type="application/pdf">Resume</object>
+        <object data="./img/Resume_September_2020.pdf" type="application/pdf">Resume</object>
     </div>
     </>
     )
