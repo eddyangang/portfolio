@@ -15,9 +15,7 @@ export default function Timeline() {
         .then(data => {
             console.log(data);
             if (!data) console.log("no data return");
-            else{
-                setProjects(data.data)
-            }
+            else setProjects(data.data)
         })
         .catch(err => console.log(err));
     }
