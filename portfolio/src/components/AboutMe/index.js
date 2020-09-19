@@ -18,7 +18,7 @@ export default function AboutMe() {
         <Col xs={6} md={6}>
           <h1>About Me</h1>
           <hr/>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde quaerat enim fugit dignissimos perferendis laudantium ratione sapiente totam veritatis ipsa esse nisi, ab aliquid? Nihil, non. Nesciunt doloremque voluptates esse!</p>
+          <p>Recent graduate from the University of California, Berkeley with a degree in Mechanical Engineering, who is currently looking for a position in Fullstack development or Software development. Skills in developing Fullstack MERN (MongoDB or MySQL, Express, React, Node) applications using MVC architecture. Also, with proficiency in advanced electronics such as programming microcontroller, sensors, and actuators. My technical aptitude in cutting-edge web technologies, combined with adept problem solving abilities and determination, make me a strong addition to any engineering team.</p>
         </Col>
       </Row>
     </Container>
