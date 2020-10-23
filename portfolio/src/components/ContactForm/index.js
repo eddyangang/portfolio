@@ -21,6 +21,7 @@ export default function ContactForm() {
                 <Form.Control as="textarea" rows="3" name="Message" required/>
                 <Form.Text className="text-muted">
                 Send a private email to me.
+                Or email me at: eddyyang@berkeley.edu
                 </Form.Text>
             </Form.Group>
             <Button variant="primary" type="submit" value="Send">
